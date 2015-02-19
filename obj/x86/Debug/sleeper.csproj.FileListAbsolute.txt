@@ -1,0 +1,10 @@
+E:\Dropbox\c#\sleeper\sleeper\bin\Debug\sleeper.exe
+E:\Dropbox\c#\sleeper\sleeper\bin\Debug\sleeper.pdb
+E:\Dropbox\c#\sleeper\sleeper\bin\Debug\CoreAudioApi.dll
+E:\Dropbox\c#\sleeper\sleeper\bin\Debug\CoreAudioApi.pdb
+E:\Dropbox\c#\sleeper\sleeper\obj\x86\Debug\sleeper.csprojResolveAssemblyReference.cache
+E:\Dropbox\c#\sleeper\sleeper\obj\x86\Debug\sleeper.Form1.resources
+E:\Dropbox\c#\sleeper\sleeper\obj\x86\Debug\sleeper.Properties.Resources.resources
+E:\Dropbox\c#\sleeper\sleeper\obj\x86\Debug\sleeper.csproj.GenerateResource.Cache
+E:\Dropbox\c#\sleeper\sleeper\obj\x86\Debug\sleeper.exe
+E:\Dropbox\c#\sleeper\sleeper\obj\x86\Debug\sleeper.pdb
