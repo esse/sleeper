@@ -7,3 +7,4 @@ E:\Dropbox\c#\sleeper\sleeper\obj\x86\Release\sleeper.Properties.Resources.resou
 E:\Dropbox\c#\sleeper\sleeper\obj\x86\Release\sleeper.csproj.GenerateResource.Cache
 E:\Dropbox\c#\sleeper\sleeper\obj\x86\Release\sleeper.exe
 E:\Dropbox\c#\sleeper\sleeper\obj\x86\Release\sleeper.pdb
+E:\Dropbox\c#\sleeper\sleeper\obj\x86\Release\sleeper.csprojResolveAssemblyReference.cache
