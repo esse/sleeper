@@ -23,7 +23,7 @@ namespace sleeper
             InitializeComponent();
             MMDeviceEnumerator devEnum = new MMDeviceEnumerator();
             defaultDevice = devEnum.GetDefaultAudioEndpoint(EDataFlow.eRender, ERole.eMultimedia);
-            label5.Text = (defaultDevice.AudioEndpointVolume.MasterVolumeLevelScalar*100).ToString() + "%";
+            setVolumeLabel();
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -92,6 +92,16 @@ namespace sleeper
         private void label5_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void setVolumeLabel()
+        {
+            label5.Text = ((int)((defaultDevice.AudioEndpointVolume.MasterVolumeLevelScalar * 100))).ToString() + "%";
+        }
+
+        private void timer2_Tick(object sender, EventArgs e)
+        {
+            setVolumeLabel();
         }
     }
 }
